@@ -1,6 +1,5 @@
 - Hi, I’m @jts3ng aka Jonathan Tseng
 - I’m interested in remote work opportunities
-- I’m currently learning lots of new code/tech
 - tseng.jonathan@gmail.com
 
 Previous Work:
